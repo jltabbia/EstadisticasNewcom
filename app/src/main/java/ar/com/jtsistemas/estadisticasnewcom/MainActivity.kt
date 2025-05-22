@@ -7,6 +7,7 @@ import androidx.compose.material3.Text
 import ar.com.jtsistemas.estadisticasnewcom.ui.theme.EstadisticasNewcomTheme
 
 // Agregue una linea en blanco
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
