@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Estadisticas Newcom</string>
+
+    <string name="games_play">Partidos Jugados</string>
+    <string name="games_wins">Partidos Ganados</string>
+    <string name="goals_wins">Tantos Ganados</string>
+    <string name="goals_lost">Tantos Perdidos</string>
+    <string name="team">Equipo</string>
+    <string name="player">Jugador</string>
+    <string name="teams">Equipos</string>
+    <string name="players">Jugadores</string>
+    <string name="average">Promedio</string>
+    <string name="document">Documento</string>
+    <string name="name">Nombre</string>
+    <string name="date">Fecha</string>
+    <string name="games">Partidos</string>
 </resources>
